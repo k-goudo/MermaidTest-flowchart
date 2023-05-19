@@ -1,0 +1,2 @@
+# MermaidTest-flowchart
+Mermaidでフローチャートを作るのをGitHubでテストするよ
